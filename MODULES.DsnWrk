@@ -1,0 +1,14 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=AUX_POWER\AUX_POWER.PrjPCB
+[Project2]
+ProjectPath=VOLTAGE_MEASURE\VOLTAGE_MEASURE.PrjPCB
+[Project3]
+ProjectPath=UNIT\UNIT.PrjPCB
+[Project4]
+ProjectPath=CURRENT_MEASURE\CURRENT_MEASURE.PrjPCB
+[Project5]
+ProjectPath=LIB\Library.LibPkg
+[Project6]
+ProjectPath=DRIVER\DRIVER.PrjPCB
