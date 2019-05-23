@@ -12,3 +12,7 @@ ProjectPath=CURRENT_MEASURE\CURRENT_MEASURE.PrjPCB
 ProjectPath=LIB\Library.LibPkg
 [Project6]
 ProjectPath=DRIVER\DRIVER.PrjPCB
+[Project7]
+ProjectPath=PLL\PLL.PrjPCB
+[Project9]
+ProjectPath=SCHMIDT\SCHMIDT.PrjPCB
