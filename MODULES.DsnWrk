@@ -14,5 +14,5 @@ ProjectPath=LIB\Library.LibPkg
 ProjectPath=DRIVER\DRIVER.PrjPCB
 [Project7]
 ProjectPath=PLL\PLL.PrjPCB
-[Project9]
+[Project8]
 ProjectPath=SCHMIDT\SCHMIDT.PrjPCB
