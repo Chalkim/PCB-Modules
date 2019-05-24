@@ -16,3 +16,7 @@ ProjectPath=DRIVER\DRIVER.PrjPCB
 ProjectPath=PLL\PLL.PrjPCB
 [Project8]
 ProjectPath=SCHMIDT\SCHMIDT.PrjPCB
+[Project9]
+ProjectPath=AUX_POWER_V2\AUX_POWER_V2.PrjPCB
+[Project10]
+ProjectPath=AUX_POWER_V2\TPS5450.PrjPCB
