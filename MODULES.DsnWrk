@@ -20,3 +20,5 @@ ProjectPath=SCHMIDT\SCHMIDT.PrjPCB
 ProjectPath=AUX_POWER_V2\AUX_POWER_V2.PrjPCB
 [Project10]
 ProjectPath=AUX_POWER_V2\TPS5450.PrjPCB
+[Project11]
+ProjectPath=AUX_POWER_-5V\AUX_POWER_-5V.PrjPCB
