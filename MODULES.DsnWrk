@@ -33,8 +33,8 @@ ProjectPath=CURRENT_MEASURE_AC\CURRENT_MEASURE_AC.PrjPCB
 [Project16]
 ProjectPath=HALF_BRIDGE\HALF_BRIDGE.PrjPCB
 [Project17]
-ProjectPath=..\..\..\..\AltiumLL\AltiumLL.PrjScr
-[Project18]
 ProjectPath=AUX_POWER_5V\AUX_POWER_5V.PrjPCB
-[Project19]
+[Project18]
 ProjectPath=AUX_POWER_15V\AUX_POWER_15V.PrjPCB
+[Project19]
+ProjectPath=..\..\..\..\AltiumLL\AltiumLL.PrjScr
