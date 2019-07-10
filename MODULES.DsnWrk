@@ -37,4 +37,4 @@ ProjectPath=AUX_POWER_5V\AUX_POWER_5V.PrjPCB
 [Project18]
 ProjectPath=AUX_POWER_15V\AUX_POWER_15V.PrjPCB
 [Project19]
-ProjectPath=..\..\..\..\AltiumLL\AltiumLL.PrjScr
+ProjectPath=DRIVER_WITH_MOS\DRIVER_WITH_MOS.PrjPCB
