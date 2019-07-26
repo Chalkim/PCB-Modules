@@ -43,6 +43,6 @@ ProjectPath=VOLTAGE_MEASURE_AC_RT\VOLTAGE_MEASURE_AC_RT.PrjPCB
 [Project21]
 ProjectPath=VOLTAGE_MEASURE_DC\VOLTAGE_MEASURE_DC.PrjPCB
 [Project22]
-ProjectPath=..\..\..\..\AltiumLL\AltiumLL.PrjScr
-[Project23]
 ProjectPath=VOLTAGE_MEASURE_DC_V2\VOLTAGE_MEASURE_DC_V2.PrjPCB
+[Project23]
+ProjectPath=PFC\PFC.PrjPCB
