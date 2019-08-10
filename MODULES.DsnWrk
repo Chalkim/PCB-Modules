@@ -46,3 +46,11 @@ ProjectPath=VOLTAGE_MEASURE_DC\VOLTAGE_MEASURE_DC.PrjPCB
 ProjectPath=VOLTAGE_MEASURE_DC_V2\VOLTAGE_MEASURE_DC_V2.PrjPCB
 [Project23]
 ProjectPath=PFC\PFC.PrjPCB
+[Project24]
+ProjectPath=Rectifier\PCB_Project.PrjPcb
+[Project25]
+ProjectPath=ÂË²¨Æ÷\ÂË²¨Æ÷.PrjPCB
+[Project26]
+ProjectPath=..\..\..\..\Altium\AD18\Library\Miscellaneous Devices\Miscellaneous Devices.LibPkg
+[Project28]
+ProjectPath=C:\Users\jiang\Desktop\ÂË²¨Æ÷-2°æ\ÂË²¨Æ÷.PrjPCB
